@@ -1,0 +1,2 @@
+alert("thales")
+addEventListener("click")

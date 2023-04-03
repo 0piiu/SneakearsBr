@@ -1,0 +1,41 @@
+*{
+margin: 0;
+}
+
+body{
+	width: 100%;
+	height: 1000px;
+	background: linear-gradient(#000,#635a5a);
+	height: 4000px;
+
+}
+
+.botoes{
+	font-size: 15px;
+	font-style: !important;
+	color: #000;
+	font-style: strong;
+	display: inline;
+	text-align: center;
+	list-style: none;
+    margin: 0px 0px 20px 0px;
+    padding: 15px;
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+    color: #f48181;
+    margin: 20px 0px 20px 0px;
+}
+h2{text-align: center;
+	font-size: 25px;
+	font-style: !important;
+	color: #f48181;
+	margin: 20px 0px 20px 0px;
+}
+.jordans{
+	margin: 50px 25px 50px 25px;
+	text-align: center;
+	padding: 20px;
+	
+}
